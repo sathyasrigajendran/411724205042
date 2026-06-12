@@ -1,0 +1,6 @@
+responsive design:*mobile first(min-width)
+                              *destop first(max-width)
+width:(it is mostly taken in approximate)
+        mobile=320px-600px
+          tablet=600px-1024px
+laptopand destop=1024px-1440px
